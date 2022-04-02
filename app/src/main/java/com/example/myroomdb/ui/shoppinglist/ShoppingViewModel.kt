@@ -20,4 +20,5 @@ class ShoppingViewModel(
     }
 
     fun getAllItems() = repository.getAllItems()
+        //git add --all
 }
